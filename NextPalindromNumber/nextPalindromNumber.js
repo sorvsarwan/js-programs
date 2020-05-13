@@ -76,7 +76,7 @@ function getNextPalindromNumber(numArr, numLength) {
 /**
  * This function is used to check given number contain all nines or not.
  * @param {array} numArr 
- * @param {int} numLength 
+ * @param {number} numLength 
  */
 function checkAllNineNumber(numArr, numLength) {
     for (let i = 0; i < numLength; i++) {
