@@ -1,5 +1,4 @@
-# js-programs
-Next Palindrom Number programs
+# Next Palindrom Number
 
 Please run this file as given below.
  * Syntax:
